@@ -14,11 +14,6 @@ import axios from 'axios';
 import utopiaImg from '../../assets/utopia.jpg';
 import apocalypseImg from '../../assets/apocalypse.jpg';
 
-import EastIcon from '@mui/icons-material/East';
-import WestIcon from '@mui/icons-material/West';
-
-import Tooltip from '@mui/material/Tooltip';
-
 export default function ImageSorter() {
 
     const [saved, setSaved] = useState(false);
