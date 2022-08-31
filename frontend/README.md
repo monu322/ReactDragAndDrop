@@ -2,6 +2,10 @@
 
 This is an interface that enables the user to classify images by drag and drop. User can select multiple images and and drop them across the categories. On each drop, the newly classified metadata is sent across to backend for verification. 
 
+![Visual Abstract](frontend.gif)
+_Frontend UI_
+
+
 ## Running locally
 
 ### 1. Run the Flask backend 
