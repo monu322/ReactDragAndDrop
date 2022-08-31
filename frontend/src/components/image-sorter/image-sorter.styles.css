@@ -1,0 +1,17 @@
+.image-sorter
+{
+    padding: 30px;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.button-grid
+{
+    padding: 50px 30px !important;
+
+}
+
+.button-grid>button
+{
+    margin-bottom:50px;
+}
