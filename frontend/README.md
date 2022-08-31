@@ -4,7 +4,7 @@ This is an interface that enables the user to classify images by drag and drop. 
 
 ## Running locally
 
-### First run the Flask backend 
+### 1. Run the Flask backend 
 
 Navigate to the "backend" folder. Instsall necessary pip libraries before firing up the backend
 
@@ -16,7 +16,7 @@ Run the backend using command
 
 To verify if the backend is running, go to http://localhost:6789/hello and see if it returns a success message
 
-### Now run the frontend 
+### 2. Run the frontend 
 
 Navigate to the "frontend" folder. Instsall necessary node packages by running
 
@@ -27,6 +27,7 @@ Run the React frontend using command
 ```npm start```
 
 You can view the frontend at http://localhost:3000
+
 
 
  
